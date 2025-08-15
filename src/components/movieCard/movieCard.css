@@ -1,0 +1,25 @@
+.movies__card {
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  overflow: hidden;
+  background-color: #fff;
+}
+
+.movies__image {
+  width: 100%;
+  display: block;
+}
+
+.movies__info {
+  padding: 10px;
+}
+
+.movies__title {
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.movies__date {
+  font-size: 0.9rem;
+  color: #555;
+}
